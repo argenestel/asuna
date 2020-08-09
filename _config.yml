@@ -4,7 +4,7 @@ email: your-email@domain.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "SAO survivor"
 keywords: "your keywords, separated by commas"
-skills: "pCTF{G1t_c0mm1ts_may_c0nt4in_inf0}"
+skills: "Known as Berserk Healer in ALO and Lighting Flash in SAO "
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -65,7 +65,7 @@ permalink: pretty
 #for posts
 defaults:
   - scope:
-      path: "/asuna"
+      path: ""
       type: "posts"
     values:
       permalink: ""
